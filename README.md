@@ -1,5 +1,5 @@
 # Resources for learning CS
-## Online and free resources I'm using to learn Computer Science and other stuff.
+Online and free resources I'm using to learn Computer Science and other stuff.
 
-### What should I study first?
+- What should I study first?
 Short answer: whatever you want.
